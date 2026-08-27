@@ -193,24 +193,7 @@ git clone https://github.com/Lancelcode/Graded-Unit-2-webpage.git
 http://localhost/Graded-Unit-2-webpage/
 ```
 
-### Demo credentials
 
-| Role | Email | Password |
-|---|---|---|
-| Admin | `admin@greenscore.com` | *(set in your DB)* |
-| User | `joe@joe.com` | *(set in your DB)* |
-
----
-##  Author
-
-**Djiby Sow Rebollo**
-
-[![GitHub](https://img.shields.io/badge/GitHub-@Lancelcode-181717?style=for-the-badge&logo=github)](https://github.com/Lancelcode)
-
-Edinburgh College — Software Development
-Graded Unit 2 — Academic Year 2024/2025
-
----
 
 ## 📄 License
 
