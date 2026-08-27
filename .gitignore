@@ -1,0 +1,111 @@
+# ─────────────────────────────
+# OS generated files
+# ─────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ─────────────────────────────
+# IDE / Editors
+# ─────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# ─────────────────────────────
+# Logs
+# ─────────────────────────────
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ─────────────────────────────
+# Environment variables
+# ─────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─────────────────────────────
+# Dependencies
+# ─────────────────────────────
+node_modules/
+vendor/
+packages/
+target/
+bin/
+obj/
+
+# ─────────────────────────────
+# Build / output
+# ─────────────────────────────
+dist/
+build/
+out/
+release/
+coverage/
+public/build/
+
+# ─────────────────────────────
+# Python
+# ─────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# ─────────────────────────────
+# Java
+# ─────────────────────────────
+*.class
+*.jar
+*.war
+*.ear
+
+# ─────────────────────────────
+# C / C++
+# ─────────────────────────────
+*.o
+*.out
+*.exe
+*.dll
+
+# ─────────────────────────────
+# JavaScript / Frameworks
+# ─────────────────────────────
+coverage/
+.next/
+.nuxt/
+.cache/
+
+# ─────────────────────────────
+# Git / misc
+# ─────────────────────────────
+.gitkeep
+*.tmp
+*.bak
+*.backup
+
+# ─────────────────────────────
+# PHP / testing artifacts
+# ─────────────────────────────
+phpunit.phar
+.phpunit.result.cache
+
+# ─────────────────────────────
+# Project-specific
+# ─────────────────────────────
+assets/images/*.sql
+composer.phar
+test-results.txt
+composer.lock
