@@ -28,7 +28,6 @@
 
 The platform includes a community tip board, a user feedback system, a secure contribution flow for upgrading certificates, a comprehensive admin dashboard, dark mode, and a full toast notification system — all built with a strong emphasis on security best practices.
 
-> 🎓 Developed as part of the **Graded Unit 2 Software Development** assessment at **Edinburgh College** — Academic Year 2024/2025.
 
 ---
 
